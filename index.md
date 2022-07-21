@@ -2,3 +2,4 @@
 - [chrome htmleNoWr](https://lieven.classy.be/htmlenw.html)
 - het werkt via git journal
 - ik kan op Android publiceren op internet met een minuut vertraging
+- **[buienradar.be/weer/diepenbeek/be/2799412](https://www.buienradar.be/weer/diepenbeek/be/2799412)** ; [https://www.buienalarm.be/](https://www.buienalarm.be/diepenbeek-hasselt-belgië) ; [Accuweather: weer komende dagen Diepenbeek](https://www.accuweather.com/nl/be/diepenbeek/29320/hourly-weather-forecast/29320) ; [Hasselt](http://www.accuweather.com/nl/be/hasselt/29314/hourly-weather-forecast/29314);; **[Google Maps gmaps](http://maps.google.be/maps?hl=nl&tab=wl)**
