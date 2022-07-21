@@ -1,4 +1,4 @@
 - [chrome htmle](https://lieven.classy.be/htmle.html)
 - [chrome htmleNoWr](https://lieven.classy.be/htmlenw.html)
 - het werkt via git journal
-- ik kan op Android publiceren op internet
+- ik kan op Android publiceren op internet met een minuut vertraging
