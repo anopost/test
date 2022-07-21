@@ -1,2 +1,0 @@
-- [chrome htmle](https://lieven.classy.be/htmle.html)
-- [chrome htmleNoWr](https://lieven.classy.be/htmlenw.html)
