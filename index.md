@@ -2,3 +2,4 @@
 - [chrome htmleNoWr](https://lieven.classy.be/htmlenw.html)
 - Ok
 - het werkt via git journal
+- ik kan op Android publiceren op internet
